@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Aman, a software developer in the city of Toronto!
+I'm Aman, a software developer in Canada!
 
 ### Links
 - Personal Website: [amanbhimani.com](https://amanbhimani.com)
